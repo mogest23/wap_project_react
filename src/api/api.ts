@@ -1,7 +1,7 @@
 import axios from 'axios';
 import type { Product, ProductsResponse, Review } from '../types';
 
-const API_URL = 'https://reviewme-api.onrender.com/api';
+const API_URL = 'https://wap-project.onrender.com/api';
 
 // Create an axios instance
 const api = axios.create({
